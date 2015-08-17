@@ -9,25 +9,24 @@ http://golang.org
 Welkom bij de tour door de [[http://golang.org/][programmeertaal Go]].
 
 De tour is verdeeld in een lijst van modules die je kan benaderen door op
-[[javascript:highlight(".logo")][Een tour door Go]] boven links op de pagina te klikken.
+[[javascript:highlight(".logo")][A Tour of Go]] boven links op de pagina te klikken.
 
-You can also view the table of contents at any time by clicking on the [[javascript:highlightAndClick(".nav")][menu]] on the top right of the page.
+Je kan ook de inhoudsopgave zien wanneer je maar wilt door op [[javascript:highlightAndClick(".nav")][menu]] boven rechts op de pagina te klikken.
 
-Throughout the tour you will find a series of slides and exercises for you
-to complete.
+Door de tour heen vind je een verzameling pagina's met oefeningen die je af kan maken.
 
-You can navigate through them using
+Je kan daardoor bladeren met
 
-- [[javascript:highlight(".prev-page")]["previous"]] or `PageUp` to go to the previous page,
+- [[javascript:highlight(".prev-page")]["vorige"]] of `PageUp` om naar de vorige pagina te gaan,
 
-- [[javascript:highlight(".next-page")]["next"]] or `PageDown` to go to the next page.
+- [[javascript:highlight(".next-page")]["volgende"]] of `PageDown` om naar de volgende pagina te gaan.
 
-The tour is interactive. Click the
-[[javascript:highlightAndClick("#run")][Run]] button now 
-(or type `shift-enter`) to compile and run the program on
-#appengine: a remote server.
-your computer.
-The result is displayed below the code.
+De tour is interactief. Klik op de 
+[[javascript:highlightAndClick("#run")][Run]]-knop 
+(of type `shift-enter`) om het programma te compileren en draaien op
+#appengine: een server op afstand.
+je computer.
+Het resultaat wordt onder de code weergegeven.
 
 These example programs demonstrate different aspects of Go. The programs in the tour are meant to be starting points for your own experimentation.
 
